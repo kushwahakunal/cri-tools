@@ -30,7 +30,7 @@ import (
 	"k8s.io/kubernetes/pkg/kubelet/remote"
 	"k8s.io/kubernetes/pkg/kubelet/util"
 
-	"github.com/kubernetes-incubator/cri-tools/pkg/version"
+	"github.com/kushwahakunal/podctl/pkg/version"
 )
 
 const (
